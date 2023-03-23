@@ -1,1 +1,3 @@
 # personal-account
+this is a project built using PHP and connecting it to MYSQL database.
+Personal account is an application where a user can log in or signup into the app and the details or data of each individual that created an account or that has logged into the account will be save authomatically in the mysql data base. also SESSIONs are used in the app so as to remember the user each time the user wants to navigate to different pages in the app he would not need to sign in from scratch.
